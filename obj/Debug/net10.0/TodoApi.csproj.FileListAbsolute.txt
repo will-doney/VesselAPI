@@ -286,3 +286,4 @@ C:\Users\willd\TodoApi\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.
 C:\Users\willd\TodoApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\willd\TodoApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\willd\TodoApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\willd\TodoApi\obj\Debug\net10.0\TodoApi.sourcelink.json

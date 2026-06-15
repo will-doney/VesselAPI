@@ -1,9 +1,10 @@
+// Vessel model class representing the variables within the vessel data service
+
 namespace vesselDataService.Models
 {
     public class Vessel
     {
-        public int Id { get;set; }
-        public string ImoNumber { get;set; } = string.Empty;
+        public int ImoNumber { get;set; } = 0;
         public string VesselName { get;set; } = string.Empty;
         public string Member { get;set; } = string.Empty;
         public string RegisteredOwner { get;set; } = string.Empty;
