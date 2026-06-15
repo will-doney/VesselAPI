@@ -1,3 +1,5 @@
+// BlueCard model class representing the variables within the blue card data service
+
 namespace vesselDataService.Models
 {
     public class BlueCard
